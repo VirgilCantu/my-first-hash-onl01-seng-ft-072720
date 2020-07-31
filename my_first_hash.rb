@@ -1,5 +1,5 @@
 def my_hash
-favorite_things = "author" => "James Joyce"
+favorite_things = {"author" => "James Joyce"}
 
 end
 
