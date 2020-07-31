@@ -11,6 +11,7 @@ the_manifest = {"whale bone corsets" => 5, "porcelain vases" => 2, "oil painting
 
 end
 
+
 def retrieval
   shipping_manifest = {
                   "whale bone corsets" => 5,
